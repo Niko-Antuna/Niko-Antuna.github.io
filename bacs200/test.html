@@ -4,25 +4,41 @@
 <style>
 table, th, td {
   border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+th {
+  text-align: left;
 }
 </style>
 </head>
 <body>
 
-<h1>The table element</h1>
+<h2>Left-align Headings</h2>
+<p>To left-align the table headings, use the CSS text-align property.</p>
 
-<table>
+<table style="width:100%">
   <tr>
-    <th>Month</th>
-    <th>Savings</th>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
   </tr>
   <tr>
-    <td>January</td>
-    <td>$100</td>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
   </tr>
   <tr>
-    <td>February</td>
-    <td>$80</td>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
   </tr>
 </table>
 
