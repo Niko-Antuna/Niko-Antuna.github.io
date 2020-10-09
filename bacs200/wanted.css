@@ -1,22 +1,29 @@
 * {
     border: dashed 1px blue;
-    padding: 10px;
     margin: 1in;
     text-align: center;
     background-color: white;
 }
 
-body {
-    border: solid 4px mediumpurple;
-    background-color: limegreen;
+header {
+    border: solid 10px mediumpurple;
+    background-color: limegreen padding: 5px;
 }
 
-header {
-    border: solid 4px mediumpurple;
-    background-color: limegreen
+body {
+    border: solid 10px mediumpurple;
+    background-color: limegreen;
+    padding: 5px;
+}
+
+main {
+    border: solid 10px mediumpurple;
+    background-color: limegreen;
+    padding: 5px;
 }
 
 footer {
-    border: solid 4px mediumpurple;
-    background-color: limegreen
+    border: solid 10px mediumpurple;
+    background-color: limegreen;
+    padding: 5px;
 }
