@@ -8,17 +8,14 @@
 
 body {
     border: solid 2px red;
-    background-color: dimgray;
+    background-color: papayawhip;
 }
 
 header {
-    border: solid 2px pink
+    border: solid 4px mediumpurple;
+    background-color: limegreen
 }
 
 footer {
     border: solid 2px purple;
-}
-
-main {
-    border: solid 2px green;
 }
