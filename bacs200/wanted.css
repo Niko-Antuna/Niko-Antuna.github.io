@@ -1,30 +1,43 @@
 * {
-    border: dashed 1px blue;
-    margin: 1in;
+    margin: 0px;
     text-align: center;
     background-color: white;
 }
 
 header {
-    border: solid 2px limegreen;
+    border: solid 10px limegreen;
     background-color: mediumpurple;
-    padding: 5px;
+    margin: 0.4in;
+    padding: 10px;
+    font-size: 300%;
 }
 
 body {
     border: solid 10px limegreen;
     background-color: mediumpurple;
-    padding: 2px;
+    margin: 1.0in;
 }
 
 main {
     border: solid 10px limegreen;
     background-color: mediumpurple;
-    padding: 2px;
+    margin: 0.4in;
+    padding: 10px;
+    font-size: 285%
 }
 
 footer {
     border: solid 10px limegreen;
     background-color: mediumpurple;
-    padding: 2px;
+    margin: 0.4in;
+    padding: 10px;
+    font-size: 260%;
+}
+
+p {
+    font-size: 40px;
+}
+
+img {
+    padding: 42px;
 }
