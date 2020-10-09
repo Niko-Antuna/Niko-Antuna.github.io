@@ -7,8 +7,8 @@
 }
 
 body {
-    border: solid 2px red;
-    background-color: papayawhip;
+    border: solid 4px mediumpurple;
+    background-color: limegreen;
 }
 
 header {
@@ -17,5 +17,6 @@ header {
 }
 
 footer {
-    border: solid 2px purple;
+    border: solid 4px mediumpurple;
+    background-color: limegreen
 }
