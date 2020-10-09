@@ -44,5 +44,9 @@ img {
 
 box {
     border: solid 10px red;
-    float: right;
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
 }
