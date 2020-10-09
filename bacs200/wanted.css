@@ -43,5 +43,7 @@ img {
 }
 
 box {
-    text-align: right;
+    border: solid 10px red;
+    float: right;
+
 }
